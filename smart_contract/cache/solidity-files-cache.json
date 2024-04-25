@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\RMC-1\\Documents\\DApp-main\\smart_contract\\contracts\\Lock.sol": {
-      "lastModificationDate": 1713949847339,
-      "contentHash": "dacf0d5cb5b45dc83086de5bc1c26c2c",
-      "sourceName": "contracts/Lock.sol",
+    "C:\\Users\\RMC-1\\Documents\\DApp-main\\smart_contract\\contracts\\Transactions.sol": {
+      "lastModificationDate": 1713954187616,
+      "contentHash": "54c779f809a9a085017b1f2603dbcd08",
+      "sourceName": "contracts/Transactions.sol",
       "solcConfig": {
         "version": "0.8.24",
         "settings": {
@@ -34,7 +34,7 @@
         "^0.8.24"
       ],
       "artifacts": [
-        "Lock"
+        "Transactions"
       ]
     }
   }
